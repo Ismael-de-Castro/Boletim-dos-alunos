@@ -1,4 +1,4 @@
-# Lista04Programa06
+# Boletim dos alunos
 
 Este programa em Java lê notas de alunos inseridas pelo usuário e calcula estatísticas como:
 
